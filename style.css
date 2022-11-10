@@ -123,3 +123,33 @@ h1 {
 .card p {
     color: rgb(87, 86, 86);
 }
+
+/* Testimonial */
+
+#testimonial {
+    height: 350px;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#testimonial .container {
+    width: 800px;
+}
+
+.quote {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.thor {
+    font-size: 22px;
+    font-weight: 600;
+    color: #1F2937;
+    text-align: end;
+}
