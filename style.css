@@ -48,7 +48,7 @@ a {
 
 #hero {
     background-color: #1F2937;
-    height: 400px;
+    height: 450px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -152,4 +152,48 @@ h1 {
     font-weight: 600;
     color: #1F2937;
     text-align: end;
+}
+
+/* CTA */
+
+#cta {
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#cta .container {
+    background-color: #3882F6;
+    border-radius: 8px;
+
+}
+
+.content {
+    padding: 40px 100px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.content h3 {
+    color: #E5E7EB;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.content p {
+    color: #d3d3d3;
+}
+
+.sign-up-2 {
+    background-color: #3882F6;
+    border: 2px solid #E5E7EB;
+    padding: 6px 30px;
+    border-radius: 8px;
+    color: #F9FAF8;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
 }
