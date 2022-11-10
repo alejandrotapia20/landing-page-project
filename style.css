@@ -88,3 +88,38 @@ h1 {
     border: 3px solid white;
     flex-shrink: 0;
 }
+
+/* Information */
+
+#information {
+    height: 400px;
+}
+
+#information h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 700;
+    text-align: center;
+    padding: 32px;
+}
+
+#information .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 32px;
+}
+
+.card {
+    width: 150px;
+}
+
+.card img{
+    width: 150px;
+    border-radius: 8px;
+}
+
+.card p {
+    color: rgb(87, 86, 86);
+}
