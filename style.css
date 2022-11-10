@@ -92,7 +92,7 @@ h1 {
 /* Information */
 
 #information {
-    height: 400px;
+    height: 450px;
 }
 
 #information h2 {
@@ -127,7 +127,7 @@ h1 {
 /* Testimonial */
 
 #testimonial {
-    height: 350px;
+    height: 400px;
     background-color: #E5E7EB;
     display: flex;
     flex-flow: column wrap;
