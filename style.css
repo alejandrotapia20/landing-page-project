@@ -197,3 +197,17 @@ h1 {
     font-size: 14px;
     cursor: pointer;
 }
+
+/* Footer */
+
+#footer {
+    background-color: #1F2937;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright {
+    color: #E5E7EB;
+}
